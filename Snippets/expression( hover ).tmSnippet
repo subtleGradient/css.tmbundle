@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>_azimuth: expression(
+	this.onmousedown  = this.onmousedown  || new Function("this.className += ' active'"),
+	this.onmouseup    = this.onmouseup    || new Function("this.className = this.className.replace('active','')"),
+	this.onmouseenter = this.onmouseenter || new Function("this.className += ' hover'"),
+	this.onmouseleave = this.onmouseleave || new Function("this.className = this.className.replace('hover','')"),
+	'inherit'
+);</string>
+	<key>name</key>
+	<string>expression( hover )</string>
+	<key>scope</key>
+	<string>source.css meta.scope.property-list</string>
+	<key>tabTrigger</key>
+	<string>hover</string>
+	<key>uuid</key>
+	<string>165AE448-14CC-4337-927C-7C7B39701234</string>
+</dict>
+</plist>
