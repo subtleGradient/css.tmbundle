@@ -129,7 +129,7 @@
 		</dict>
 		<dict>
 			<key>begin</key>
-			<string>((?&lt;=\})|^)(?=\s*[\|\[:.*#a-zA-Z])</string>
+			<string>((?&lt;=\}|\*/)|^)(?=\s*[\|\[:.*#a-zA-Z])</string>
 			<key>end</key>
 			<string>(?i)\s*(?=&lt;/style)|(?=\{)</string>
 			<key>name</key>
