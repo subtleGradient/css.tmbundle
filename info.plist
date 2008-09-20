@@ -6,12 +6,6 @@
 	<string>boyvivbhf@fhogyrTenqvrag.pbz</string>
 	<key>contactName</key>
 	<string>Thomas Aylott</string>
-	<key>deleted</key>
-	<array>
-		<string>F7870105-1F57-47E5-9A1C-F8E87DFCA24F</string>
-		<string>B6350FDB-7733-48E8-8019-A85B665F8969</string>
-		<string>D81AF57A-83F5-47A2-ACCA-9E73564A7D08</string>
-	</array>
 	<key>description</key>
 	<string>The &lt;a href="http://www.w3.org/Style/CSS/"&gt;cascading stylesheet language&lt;/a&gt; is used in web pages. This bundle has syntax highlight, lots of snippets, validation, and more.</string>
 	<key>mainMenu</key>
@@ -23,8 +17,13 @@
 		<key>items</key>
 		<array>
 			<string>50AA6E95-A754-4EBC-9C2A-68418C70D689</string>
+			<string>BBC20F27-40F2-4A18-AAF3-4202DC62D213</string>
+			<string>------------------------------------</string>
 			<string>45E5E5A1-84CC-11D9-970D-0011242E4184</string>
+			<string>------------------------------------</string>
 			<string>05554FE0-4A70-4F3E-81C5-72855D7EB428</string>
+			<string>D40CC348-536F-4068-B724-7252ADDD507C</string>
+			<string>FA3E115E-7A3F-496A-8080-976E8627EA16</string>
 			<string>------------------------------------</string>
 			<string>64180C76-8C8D-4F29-82BE-6096BE1B14D8</string>
 			<string>3556C0BE-73B3-45CE-8C9C-7B3AA3BB038B</string>
@@ -44,10 +43,12 @@
 			<string>------------------------------------</string>
 			<string>5D65DB63-6397-447C-92BB-DA544933B951</string>
 			<string>22BE15A9-0DCC-4989-93AD-048C4EE4CD84</string>
+			<string>950DB134-3917-4DFC-9DF5-25E0E54D8739</string>
 			<string>------------------------------------</string>
 			<string>435F30F3-90A8-40D8-A263-E22A1DA0BBDE</string>
 			<string>------------------------------------</string>
 			<string>AFEFC5A8-F900-46F9-ACB6-11C3917B2E07</string>
+			<string>F5356FC6-0C43-4E58-BA7B-6670341C7AE1</string>
 		</array>
 		<key>submenus</key>
 		<dict>
@@ -56,8 +57,9 @@
 				<key>items</key>
 				<array>
 					<string>749295F4-F139-422A-80A0-EA11364396E3</string>
-					<string>FCDDB549-681A-436F-894E-1A408C0E114C</string>
 					<string>81CCEB84-6241-4E4F-BB26-54BAAFA3FF2E</string>
+					<string>FCDDB549-681A-436F-894E-1A408C0E114C</string>
+					<string>165AE448-14CC-4337-927C-7C7B39701234</string>
 				</array>
 				<key>name</key>
 				<string>Proprietary</string>
@@ -100,6 +102,8 @@
 					<string>321FFAF7-5699-45E6-8696-DE84AD607690</string>
 					<string>05AFB9EB-F4AB-4F86-8170-535CF508176C</string>
 					<string>189DD463-0331-4B99-8CA2-ADEEF7CC078D</string>
+					<string>------------------------------------</string>
+					<string>9F8787BF-72B3-4969-9B2A-708A5E40187F</string>
 				</array>
 				<key>name</key>
 				<string>Border</string>
@@ -126,6 +130,7 @@
 					<string>B121F84A-CE4A-491D-BF3D-35ED51C82554</string>
 					<string>DA7DF131-7351-4F3B-B680-57159E50E6DE</string>
 					<string>2EED405C-FBAF-4AEB-9B30-ED8EB2252378</string>
+					<string>FF3DFC30-EA7F-41ED-B291-A87830869B90</string>
 				</array>
 				<key>name</key>
 				<string>Other</string>
@@ -140,6 +145,22 @@
 				</array>
 				<key>name</key>
 				<string>Color</string>
+			</dict>
+			<key>950DB134-3917-4DFC-9DF5-25E0E54D8739</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>67DB578F-6069-469C-AC26-88AFB0E779DF</string>
+					<string>------------------------------------</string>
+					<string>CEC5C329-B5B6-4BDB-A50E-2DCC8D758A53</string>
+					<string>------------------------------------</string>
+					<string>1D69B6B4-C786-4149-8DEA-0FB2E1722CB2</string>
+					<string>BA1D7794-DB00-434A-8CD6-BDD27FB1A9E3</string>
+					<string>EC2DF1F6-B370-486B-8E5B-FFC28EF70213</string>
+					<string>DA36E7CB-0C18-41A7-B9BC-6CBDD1FE9248</string>
+				</array>
+				<key>name</key>
+				<string>Idioms</string>
 			</dict>
 			<key>9F64EFE2-09C2-4F87-80D6-448A0C177E7B</key>
 			<dict>
@@ -400,6 +421,10 @@
 		<string>BA1D7794-DB00-434A-8CD6-BDD27FB1A9E3</string>
 		<string>EC2DF1F6-B370-486B-8E5B-FFC28EF70213</string>
 		<string>DA36E7CB-0C18-41A7-B9BC-6CBDD1FE9248</string>
+		<string>165AE448-14CC-4337-927C-7C7B39701234</string>
+		<string>9F8787BF-72B3-4969-9B2A-708A5E40187F</string>
+		<string>CEC5C329-B5B6-4BDB-A50E-2DCC8D758A53</string>
+		<string>67DB578F-6069-469C-AC26-88AFB0E779DF</string>
 	</array>
 	<key>uuid</key>
 	<string>4675F24E-6227-11D9-BFB1-000D93589AF6</string>
