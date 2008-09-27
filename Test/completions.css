@@ -1,0 +1,93 @@
+/*Selectors*/
+/*source.css meta.selector*/
+
+/*tags*/
+
+div
+/*ids*/
+#
+#id
+/*classes*/
+.
+.class
+/*pseudo classes*/
+:
+:hove
+/*attributes*/
+[]
+[attribute='attribute value']
+/*attribute values*/
+[attribute=]
+[attribute='attribute value']
+{
+/*Attributes*/
+/*source.css meta.scope.property-list*/
+
+/*source.css meta.scope.property-list meta.property-name*/
+flarm: shmoo;
+
+/*source.css meta.scope.property-list meta.property-name support.type.property-name*/
+color: 
+
+/*Attribute Values*/
+/*source.css meta.property-value*/
+blue
+;
+
+}
+
+.selector
+{
+	property: value;
+	property: value;
+}
+.selector
+{
+	property: value;
+	property: value
+}
+.selector
+{
+	property: value;
+	property
+	:value
+}
+
+
+selector{}
+selector,selector{}
+{}selector{}
+/**/selector{}
+
+/*begin: (?<= ^ | [\},] | \*\/) \s* */
+/*end:   (?= \s*{ | </styl ) */
+
+{property}
+{property:}
+{property:value}
+{property:value;property}
+{property:value;property:}
+{property:value;property:value}
+
+/*begin: [;{]*/
+/*end:   [:}]*/
+
+{-vendor-property}
+{-vendor-property:}
+{-vendor-property:value}
+{-vendor-property:value;-vendor-property}
+{-vendor-property:value;-vendor-property:}
+{-vendor-property:value;-vendor-property:value}
+
+/*begin: (?<= [;{] ) ( \s* -)*/
+/*end:   [:}]*/
+
+{property}
+{property:}
+{property:value}
+{property:value;property}
+{property:value;property:}
+{property:value;property:value}
+
+/*begin: [:]*/
+/*end:   (?=[;}] | </styl) */

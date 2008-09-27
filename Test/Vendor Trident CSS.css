@@ -1,0 +1,19 @@
+.selector{
+	background-image: none;
+	filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/images/transparent.png', sizingMethod='image/scale/crop');
+	
+	bottom: auto;top: expression(eval(document.documentElement.scrollTop+document.documentElement.clientHeight-100));
+	left: expression(eval(document.documentElement.scrollLeft));
+	width: expression(eval(document.documentElement.clientWidth));
+	
+	
+	_azimuth: expression(
+		this.onmousedown  = this.onmousedown  || new Function("this.className += ' active'"),
+		this.onmouseup    = this.onmouseup    || new Function("this.className = this.className.replace('active','')"),
+		this.onmouseenter = this.onmouseenter || new Function("this.className += ' hover'"),
+		this.onmouseleave = this.onmouseleave || new Function("this.className = this.className.replace('hover','')"),
+		'inherit'
+	);
+	
+	property: expression(eval("{}"));
+}

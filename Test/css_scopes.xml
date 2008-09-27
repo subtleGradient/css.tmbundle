@@ -1,0 +1,14 @@
+  .selector  {  property  :  value  ;  property  :  value  }  
+
+<meta.selector.css>
+
+.selector
+
+</meta.selector.css>
+<meta.scope.property-list.css><punctuation>{</punctuation>
+
+<meta.property.css>    <meta.property-name.css>property  </meta.property-name.css><punctuation.separator.key-value.rule.css>:</punctuation.separator.key-value.rule.css><meta.property-value.css>  value  </meta.property-value.css>;</meta.property.css>
+<meta.property.css>    <meta.property-name.css>property  </meta.property-name.css><punctuation.separator.key-value.rule.css>:</punctuation.separator.key-value.rule.css><meta.property-value.css>  value  
+
+</meta.property-value.css></meta.property.css><punctuation>}</punctuation>
+</meta.scope.property-list.css>

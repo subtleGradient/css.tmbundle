@@ -13,7 +13,7 @@ html img.foo
 	/*/meta.property-name.css*/
 	
 	/* meta.property-value.css*/
-	opacity; 
+	opacity;
 	/*/meta.property-value.css*/
 	
 	/*/meta.property.vendor.effect.webkit-transition-property.css*/
@@ -21,3 +21,145 @@ html img.foo
 /*/meta.scope.property-list.css*/
 
 /*/meta.scope.item.css*/
+
+
+/*Selectors*/
+/*source.css meta.selector*/
+
+/*tags*/
+
+div
+/*ids*/
+#
+#id
+/*classes*/
+.
+.class
+/*pseudo classes*/
+:
+:hove
+/*attributes*/
+[]
+[attribute='attribute value']
+/*attribute values*/
+[attribute=]
+[attribute='attribute value']
+{
+	/*Attributes*/
+	/*source.css meta.scope.property-list*/
+
+	/*source.css meta.scope.property-list meta.property-name*/
+	flarm: shmoo;
+
+	/*source.css meta.scope.property-list meta.property-name support.type.property-name*/
+	color: 
+
+	/*Attribute Values*/
+	/*source.css meta.property-value*/
+	blue
+	;
+
+}
+
+  .selector  {  property  :  value  ;  property  :  value  }  
+
+.selector
+{
+	property: value;
+	property: value;
+}
+.selector
+{
+	property: value;
+	property: value
+}
+.selector
+{
+	property: value;
+	property
+	:value
+}
+
+
+selector{}
+selector,selector{}
+{}selector{}
+/**/selector{}
+
+/*begin: (?<= ^ | [\},] | \*\/) \s* */
+/*end:   (?= \s*{ | </styl ) */
+
+{property}
+{property:}
+{property:value}
+{property:value;property}
+{property:value;property:}
+{property:value;property:value}
+
+/*begin: [;{]*/
+/*end:   [:}]*/
+
+{-vendor-property}
+{-vendor-property:}
+{-vendor-property:value}
+{-vendor-property:value;-vendor-property}
+{-vendor-property:value;-vendor-property:}
+{-vendor-property:value;-vendor-property:value}
+
+/*begin: (?<= [;{] ) ( \s* -)*/
+/*end:   [:}]*/
+
+{property}
+{property:}
+{property:value}
+{property:value;property}
+{property:value;property:}
+{property:value;property:value}
+
+/*begin: [:]*/
+/*end:   (?=[;}] | </styl) */
+
+
+.selector {
+	background: #DDD url() repeat/repeat-x/repeat-y/no-repeat scroll/fixed top left/top center/top right/center left/center center/center right/bottom left/bottom center/bottom right/x-% y-%/x-pos y-pos;
+}
+
+.selector{background-image: left;}
+.selector{background-image: none;}
+.selector{background-image: inherit;}
+.selector{background-image: url();}
+
+.selector{background-repeat: none;}
+.selector{background-repeat: repeat repeat-x repeat-y no-repeat;}
+.selector{background-repeat: inherit;}
+.selector{background-repeat: repeat;}
+.selector{background-repeat: repeat-x;}
+.selector{background-repeat: repeat-y;}
+.selector{background-repeat: no-repeat;}
+
+.selector{background-color: left;}
+.selector{background-color: inherit;}
+.selector{background-color: transparent;}
+.selector{background-color: blue;}
+.selector{background-color: red;}
+.selector{background-color: #33;}
+.selector{background-color: #333;}
+.selector{background-color: #3333;}
+.selector{background-color: #33333;}
+.selector{background-color: #333333;}
+.selector{background-color: rgb();}
+.selector{background-color: rgba();}
+
+.selector{color: left;}
+.selector{color: inherit;}
+.selector{color: transparent;}
+.selector{color: blue;}
+.selector{color: red;}
+.selector{color: #33;}
+.selector{color: #333;}
+.selector{color: #3333;}
+.selector{color: #33333;}
+.selector{color: #333333;}
+.selector{color: rgb();}
+.selector{color: rgba();}
+
