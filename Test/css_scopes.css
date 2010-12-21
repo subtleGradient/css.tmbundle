@@ -125,7 +125,7 @@ selector,selector{}
 }
 
 .selector{background-image: left;}
-.selector{background-image: none;}
+.selector{background-image: none !important;}
 .selector{background-image: inherit;}
 .selector{background-image: url();}
 

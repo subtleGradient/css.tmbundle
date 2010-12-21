@@ -148,7 +148,7 @@
 		<array>
 			<dict>
 				<key>name</key>
-				<string>TM_COMPLETION_split</string>
+				<string>TM_COMPLETIONS_SPLIT</string>
 				<key>value</key>
 				<string>
 </string>

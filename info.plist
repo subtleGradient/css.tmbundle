@@ -6,6 +6,10 @@
 	<string>boyvivbhf@fhogyrTenqvrag.pbz</string>
 	<key>contactName</key>
 	<string>Thomas Aylott</string>
+	<key>deleted</key>
+	<array>
+		<string>9CEB321D-1B98-4D2F-ACA4-8B37626EFE50</string>
+	</array>
 	<key>description</key>
 	<string>The &lt;a href="http://www.w3.org/Style/CSS/"&gt;cascading stylesheet language&lt;/a&gt; is used in web pages. This bundle has syntax highlight, lots of snippets, validation, and more.</string>
 	<key>mainMenu</key>
@@ -294,6 +298,21 @@
 	<string>CSS</string>
 	<key>ordering</key>
 	<array>
+		<string>69AA0917-B7BB-11D9-A7E2-000D93C8BE28</string>
+		<string>1C3AC9D7-F644-4DDD-9722-1680D09533ED</string>
+		<string>1C67E107-8F62-4FE4-8D90-8F500C253B8C</string>
+		<string>375CF370-8A7B-450A-895C-FD18B47957E2</string>
+		<string>623154CA-0EDF-4365-9441-80D396C11979</string>
+		<string>45707407-3307-4B4D-AE9B-78BDCFB6F920</string>
+		<string>096894D8-6A5A-4F1D-B68C-782F0A850E52</string>
+		<string>17B2DD5B-D2EA-4DC5-9C7D-B09B505156C5</string>
+		<string>92B0C9FE-CC81-498A-B93C-376A9C47CF2D</string>
+		<string>F248D852-FD69-48F7-89DE-DDE3188C696D</string>
+		<string>BCAF7514-033E-45D7-9E46-07FACF84DAAD</string>
+		<string>1E4F54FD-1940-42E0-9D0A-0EC11D81E446</string>
+		<string>E6FB4209-818E-40F5-9AFF-96E204F52A11</string>
+		<string>42E26C97-72AB-4953-807F-645AF7EDF59F</string>
+		<string>35DFB6D6-E48B-4907-9030-019904DA0C5B</string>
 		<string>D40CC348-536F-4068-B724-7252ADDD507C</string>
 		<string>FA3E115E-7A3F-496A-8080-976E8627EA16</string>
 		<string>05554FE0-4A70-4F3E-81C5-72855D7EB428</string>
@@ -373,6 +392,8 @@
 		<string>E10366F8-CA83-4447-89D3-B36AFD1EAECD</string>
 		<string>6523B6C5-8741-4766-98D6-1B1DE2E6A5F3</string>
 		<string>50C748B6-C8B6-447F-A9EE-DD41CF1CD707</string>
+		<string>634037EA-AA81-469F-826F-F34BC1F6B563</string>
+		<string>B5E561F3-E78C-450B-8BA4-B52BCCF1A440</string>
 		<string>DD5BB93D-4F99-4A41-8864-85A557B922C7</string>
 		<string>6E64EA4A-A10E-49B3-AC9C-D53DBF9ED14A</string>
 		<string>4602BFF3-C7F1-4CF5-93CE-125EC8ABC7C8</string>
@@ -397,26 +418,13 @@
 		<string>2EED405C-FBAF-4AEB-9B30-ED8EB2252378</string>
 		<string>EF1F2D38-A71A-4D1D-9B07-B1CBB6D84B81</string>
 		<string>749295F4-F139-422A-80A0-EA11364396E3</string>
-		<string>69AA0917-B7BB-11D9-A7E2-000D93C8BE28</string>
 		<string>BBC20F27-40F2-4A18-AAF3-4202DC62D213</string>
-		<string>375CF370-8A7B-450A-895C-FD18B47957E2</string>
-		<string>623154CA-0EDF-4365-9441-80D396C11979</string>
-		<string>45707407-3307-4B4D-AE9B-78BDCFB6F920</string>
-		<string>92B0C9FE-CC81-498A-B93C-376A9C47CF2D</string>
-		<string>E6FB4209-818E-40F5-9AFF-96E204F52A11</string>
-		<string>BCAF7514-033E-45D7-9E46-07FACF84DAAD</string>
-		<string>42E26C97-72AB-4953-807F-645AF7EDF59F</string>
-		<string>1E4F54FD-1940-42E0-9D0A-0EC11D81E446</string>
-		<string>35DFB6D6-E48B-4907-9030-019904DA0C5B</string>
-		<string>17B2DD5B-D2EA-4DC5-9C7D-B09B505156C5</string>
-		<string>096894D8-6A5A-4F1D-B68C-782F0A850E52</string>
 		<string>6ED38063-8791-41BB-9F9F-F9EA378B1526</string>
+		<string>C076F24F-9C43-4CE8-9F9B-496DD2EC9194</string>
 		<string>FCDDB549-681A-436F-894E-1A408C0E114C</string>
 		<string>1B042CEF-7C82-472D-92A2-FF555BFD6927</string>
-		<string>64180C76-8C8D-4F29-82BE-6096BE1B14D8</string>
-		<string>3556C0BE-73B3-45CE-8C9C-7B3AA3BB038B</string>
 		<string>AFEFC5A8-F900-46F9-ACB6-11C3917B2E07</string>
-		<string>F5356FC6-0C43-4E58-BA7B-6670341C7AE1</string>
+		<string>49628957-3747-41B3-AB0A-94CDA523096B</string>
 		<string>1D69B6B4-C786-4149-8DEA-0FB2E1722CB2</string>
 		<string>BA1D7794-DB00-434A-8CD6-BDD27FB1A9E3</string>
 		<string>EC2DF1F6-B370-486B-8E5B-FFC28EF70213</string>

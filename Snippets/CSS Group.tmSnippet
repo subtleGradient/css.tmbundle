@@ -5,8 +5,8 @@
 	<key>content</key>
 	<string>/* @group ${10:Group} */
 
-${0:${TM_SELECTED_TEXT:/* INSERT RULES HERE */
-}}
+$0${TM_SELECTED_TEXT:
+}
 /* @end   $10 */
 </string>
 	<key>keyEquivalent</key>

@@ -5,20 +5,43 @@
 	<key>name</key>
 	<string>Selector Completions</string>
 	<key>scope</key>
-	<string>source.css -meta.scope.property-list</string>
+	<string>source.css</string>
 	<key>settings</key>
 	<dict>
 		<key>completions</key>
 		<array>
-			<string>*</string>
-			<string>#</string>
-			<string>.</string>
-			<string>a</string>
+			<string>first-child</string>
+			<string>root</string>
+			<string>nth-child(n)</string>
+			<string>nth-last-child(n)</string>
+			<string>nth-of-type(n)</string>
+			<string>nth-last-of-type(n)</string>
+			<string>last-child</string>
+			<string>first-of-type</string>
+			<string>last-of-type</string>
+			<string>only-child</string>
+			<string>only-of-type</string>
+			<string>empty</string>
+			<string>link</string>
+			<string>visited</string>
+			<string>active</string>
+			<string>hover</string>
+			<string>focus</string>
+			<string>lang(fr)</string>
+			<string>target</string>
+			<string>disabled</string>
+			<string>enabled</string>
+			<string>checked</string>
+			<string>first-line</string>
+			<string>first-letter</string>
+			<string>before</string>
+			<string>after</string>
+			<string>selection</string>
+			<string>not(s)</string>
 			<string>abbr</string>
 			<string>acronym</string>
 			<string>address</string>
 			<string>area</string>
-			<string>b</string>
 			<string>base</string>
 			<string>big</string>
 			<string>blockquote</string>
@@ -50,7 +73,6 @@
 			<string>head</string>
 			<string>hr</string>
 			<string>html</string>
-			<string>i</string>
 			<string>iframe</string>
 			<string>img</string>
 			<string>input</string>
@@ -68,10 +90,8 @@
 			<string>ol</string>
 			<string>optgroup</string>
 			<string>option</string>
-			<string>p</string>
 			<string>param</string>
 			<string>pre</string>
-			<string>q</string>
 			<string>samp</string>
 			<string>script</string>
 			<string>select</string>
@@ -99,153 +119,9 @@
 		<array>
 			<dict>
 				<key>name</key>
-				<string>TM_COMPLETION_unique</string>
+				<string>TM_COMPLETIONS_FILES</string>
 				<key>value</key>
-				<string>true</string>
-			</dict>
-			<dict>
-				<key>name</key>
-				<string>TM_COMPLETION_split</string>
-				<key>value</key>
-				<string>
-</string>
-			</dict>
-			<dict>
-				<key>name</key>
-				<string>TM_COMPLETIONS</string>
-				<key>value</key>
-				<string>
-:link
-:visited
-:active
---
-:hover
-:focus
---
-[foo]
-[foo="bar"]
-[foo~="bar"]
-[hreflang|="en"]
---
-[foo^="bar"]
-[foo$="bar"]
-[foo*="bar"]
---
-:first-child
-:root
-:nth-child(n)
-:nth-last-child(n)
-:nth-of-type(n)
-:nth-last-of-type(n)
-:last-child
-:first-of-type
-:last-of-type
-:only-child
-:only-of-type
-:empty
---
-:lang(fr)
-:target
-:disabled
-:enabled
-:checked
---
-::first-line
-::first-letter
-::before
-::after
-::selection
---
- &gt; 
- + 
- ~ 
-:not( selector )
---
-#
-.
---
-*
-a
-abbr
-acronym
-address
-area
-b
-base
-big
-blockquote
-body
-br
-button
-caption
-cite
-code
-col
-colgroup
-dd
-del
-dfn
-div
-dl
-dt
-em
-fieldset
-form
-frame
-frameset
-h1
-h2
-h3
-h4
-h5
-h6
-head
-hr
-html
-i
-iframe
-img
-input
-ins
-kbd
-label
-legend
-li
-link
-map
-meta
-noframes
-noscript
-object
-ol
-optgroup
-option
-p
-param
-pre
-q
-samp
-script
-select
-small
-span
-strike
-strong
-style
-sub
-sup
-table
-tbody
-td
-textarea
-tfoot
-th
-thead
-title
-tr
-tt
-ul
-var</string>
+				<string>selectors.json</string>
 			</dict>
 		</array>
 	</dict>

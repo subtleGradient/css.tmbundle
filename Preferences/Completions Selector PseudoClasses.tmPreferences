@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>Completions Selector PseudoClasses</string>
+	<key>scope</key>
+	<string>source.css invalid.illegal.pseudo-class.css</string>
+	<key>settings</key>
+	<dict>
+		<key>shellVariables</key>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>TM_COMPLETIONS_FILES</string>
+				<key>value</key>
+				<string>"selectors.json"</string>
+			</dict>
+		</array>
+	</dict>
+	<key>uuid</key>
+	<string>F248D852-FD69-48F7-89DE-DDE3188C696D</string>
+</dict>
+</plist>
